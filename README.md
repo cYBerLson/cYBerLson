@@ -1,78 +1,65 @@
 #  Hi, I'm Abdulmajid Bello
 
-## Full Stack Developer | Cybersecurity Engineer | AI Security Researcher
+<h3 align="center"> Cybersecurity Engineer |  Full Stack Developer |  AI Security Researcher</h3>
 
-I am a passionate Full Stack Developer and Cybersecurity Engineer dedicated to building secure, scalable, and intelligent software solutions. My work combines web development, cybersecurity, networking, and artificial intelligence to create practical tools that solve real-world security challenges.
+<p align="center">
+Passionate about building secure web applications, AI-powered cybersecurity solutions, and intelligent network security systems.
+</p>
 
 ---
 
 ##  About Me
 
--  Full Stack Developer
+-  Full Stack Developer (Python, PHP, JavaScript)
 -  Cybersecurity Engineer
 -  AI Security Researcher
 -  Network Security Enthusiast
--  Python & PHP Developer
--  Certified in Ethical Hacking (Cisco–NITDA)
--  Currently advancing my expertise in offensive security, AI-powered cybersecurity, and secure software development.
+-  Linux & Kali Linux User
+-  Machine Learning for Cybersecurity
+-  Cisco–NITDA Certified Ethical Hacker
+-  CompTIA Network+ Certified
+-  ISO/IEC 27001 Information Security Associate
+-  Currently learning DevSecOps,Bug Hunting Cloud Security, and Advanced Penetration Testing
 
 ---
 
-##  Technical Skills
+#  Tech Stack
 
-### Programming Languages
+###  Programming Languages
 
-- Python
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-- SQL
-- Bash
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,js,html,css,bash,mysql" />
+</p>
 
-### Backend
+###  Frameworks & Technologies
 
-- Flask
-- PHP
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,sqlite,git,github,linux" />
+</p>
 
-### Frontend
+###  Cybersecurity & Networking
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-### Databases
-
-- MySQL
-- SQLite
-
-### Cybersecurity
-
-- Vulnerability Assessment
 - Penetration Testing
-- Threat Detection
-- Security Auditing
-- Log Analysis
+- Vulnerability Assessment
 - Web Application Security
-- Linux & Kali Linux
-
-### Networking
-
-- Cisco Packet Tracer
-- Routing & Switching
+- Threat Detection
+- Log Analysis
+- Network Security
 - Secure WLAN Design
-- TCP/IP
-- VLANs
-- Access Control Lists (ACLs)
+- Routing & Switching
+- Cisco Packet Tracer
+- Wireshark
+- Nmap
+- Burp Suite
+- Metasploit
 
-### AI & Machine Learning
+###  Artificial Intelligence
 
+- Machine Learning
+- Isolation Forest
 - Scikit-learn
 - Pandas
 - NumPy
-- Isolation Forest
 - Data Analysis
 
 ---
@@ -81,65 +68,140 @@ I am a passionate Full Stack Developer and Cybersecurity Engineer dedicated to b
 
 ##  Cyberlson-Scan
 
-A Flask-based defensive cybersecurity toolkit designed for system auditing, password analysis, process monitoring, port inspection, and security reporting.
+A Flask-based defensive cybersecurity toolkit designed for:
+
+- Password Security Analysis
+- Local Port Visibility
+- Process Monitoring
+- Security Auditing
+- Automated Security Reporting
+
+**Tech Stack**
+
+Python • Flask • HTML • CSS • JavaScript
 
 ---
 
 ##  CyberlsonLog-AI
 
-An AI-powered log analysis platform capable of ingesting multiple log formats, detecting anomalies using machine learning, and generating intelligent security insights.
+AI-powered log analysis platform supporting multiple log formats with intelligent anomaly detection and security reporting.
+
+### Features
+
+- AI Threat Detection
+- Risk Scoring
+- Interactive Dashboard
+- Multiple Log Formats
+- Machine Learning Analysis
+
+**Tech Stack**
+
+Python • Flask • SQLite • Isolation Forest
 
 ---
 
 ##  Credit Card Fraud Detection System
 
-A machine learning-powered web application developed to identify fraudulent credit card transactions using predictive analytics and intelligent data processing.
+Machine learning-powered fraud detection web application capable of identifying suspicious financial transactions using predictive analytics.
+
+**Tech Stack**
+
+PHP • MySQL • Machine Learning • JavaScript
 
 ---
 
 ##  Secure WLAN Design & Simulation
 
-Designed and simulated a secure wireless network using Cisco Packet Tracer, implementing WPA2 encryption, VLAN segmentation, MAC filtering, and network access controls.
+Enterprise wireless network simulation using Cisco Packet Tracer.
+
+Implemented:
+
+- WPA2 Security
+- VLAN Segmentation
+- MAC Filtering
+- ACL
+- Secure Network Architecture
 
 ---
 
 ##  Cowrie Honeypot SSH Attack Detection
 
-A cybersecurity lab project demonstrating SSH attack monitoring and attacker behavior analysis using the Cowrie Honeypot.
+Cybersecurity lab demonstrating attacker behavior analysis and SSH attack monitoring using Cowrie Honeypot.
 
 ---
 
 ##  Web Application Security Lab
 
-Hands-on penetration testing and vulnerability assessment using DVWA and Metasploitable2.
+Hands-on penetration testing laboratory using:
+
+- DVWA
+- Metasploitable2
+- Kali Linux
+
+---
+
+## Certifications
+
+- Ethical Hacker — Cisco (NITDA) 
+- CompTIA Network+ 
+- Cisco Networking Certification 
+- ISO/IEC 27001 Information Security Associate™ 
+- Certified Cybersecurity Educator Professional (CCEP) 
+- Python Essentials 1 — Cisco Networking Academy 
+- Introduction to Penetration Testing (Blue Team Academy) 
+- Cybersecurity Certificate — Cisco 
 
 ---
 
 #  Current Focus
 
-- Building AI-powered cybersecurity applications
-- Developing secure full stack web applications
-- Network security and penetration testing
-- Security automation
-- Open Source Contributions
+-  AI-Powered Cybersecurity
+-  Full Stack Development
+-  Cloud Security
+-  Security Automation
+-  Machine Learning
+-  Open Source Contributions
 
 ---
+## Professional Experience
 
-#  GitHub Goals
+### Computer Instructor
+**Army Intelligence School, Tego Barracks** 
+*(2025 – 2026)*
 
-- Build production-ready cybersecurity tools
-- Contribute to open-source security projects
-- Share educational cybersecurity content
-- Develop AI-powered defensive security solutions
+- Trained over 1,000 military personnel in computer fundamentals and cybersecurity awareness.
+- Delivered practical training on Microsoft Office, digital security, and system protection.
+- Developed instructional materials for ICT and cybersecurity education.
 
----
+### Full Stack Web Developer
+*(2020 – 2024)*
+
+- Designed and developed responsive web applications.
+- Built secure web solutions using Python, PHP, JavaScript, HTML, and CSS.
+- Assisted clients with website deployment, hosting, and technical support.
+
+## Education
+
+**B.Sc. Computer Science & Information Technology**
+
+Federal University Dutsin-Ma, Nigeria
+
+**Final Year Project**
+
+Design and Implementation of a Credit Card Fraud Detection System using Machine Learning.
 
 #  Connect With Me
 
-- GitHub: https://github.com/cYBerLson
-- LinkedIn: https://linkedin.com/in/cyberlsonsc
-- Email: cyberlsoncs@gmail.com
+- GitHub: **https://github.com/cYBerLson**
+- LinkedIn: **https://linkedin.com/in/cyberlsonsc**
+- Email: **cyberlsoncs@gmail.com**
 
 ---
 
+#  Quote
+
 > **"Building secure software and intelligent cybersecurity solutions for a safer digital world."**
+
+---
+
+ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
